@@ -2,6 +2,8 @@
 #include <vector>
 #include <string>
 
+
+// Using Horizontal Scanning
 std::string longestCommonPrefix(std::vector<std::string>& strs) {
     if (strs.empty()) return "";
 
